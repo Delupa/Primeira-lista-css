@@ -1,0 +1,54 @@
+html {
+
+    background-color: black
+}
+
+h1 {
+    color: red;
+    font-size: 40pt;
+    border-left: 200px;
+}
+
+h2 {
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: azure;
+    font-weight: 100;
+    font-size: 25pt;
+}
+
+p {
+    color: blanchedalmond;
+    font-style: oblique;
+    font-size:larger;
+}
+
+#rf_img {
+    width: 350px;
+    padding-left: 25px;
+    float: left;
+    float: right;
+}
+
+#ponto_img {
+
+    width: left;
+}
+
+article {
+    padding-left: 25px;
+    padding-right: 40px;
+}
+
+hr {
+    color: gray;
+}
+.nome {
+    color: red;
+}
+.nota {
+    color: beige;
+}
+.intervalo_nota {
+    width: 150pt;
+}
